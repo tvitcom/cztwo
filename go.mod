@@ -1,3 +1,3 @@
-module testcode/test2
+module github.com/tvitcom/cztwo
 
-go 1.15
+go 1.16
